@@ -18,7 +18,7 @@ Utilise des modèles IA pour créer des paroles adaptées à un thème donné. L
 
 Transforme chaque section des paroles en descriptions visuelles.
 
-*  : Attribue une palette de couleurs cohérente avec l’émotion et le style musical pour harmoniser la colorimétrie des scènes.
+* \*\* Attribue une palette de couleurs cohérente avec l’émotion et le style musical pour harmoniser la colorimétrie des scènes.
 
 **Prompt Exemple :**
 
@@ -48,6 +48,12 @@ Créer un profil de personnage détaillé garantissant la cohérence des traits 
 
 Génère des images illustratives et symboliques adaptées aux paroles.
 
+* **Outils disponibles :**  
+  * **Flux** : Solution puissante pour la génération d'images artistiques et cinématographiques.  
+  * **DALL-E** : Génération d'images basée sur des prompts textuels.  
+  * **Stable Diffusion** : Modèle open-source pour une personnalisation accrue.  
+  * **MidJourney** : Plateforme centrée sur l'art conceptuel et les scènes complexes.
+
 **Prompt Exemple :**
 
 * « Plan de nature avec des vagues s’écrasant doucement, ambiance mélancolique au coucher de soleil. »
@@ -69,7 +75,26 @@ Créer des scènes centrées sur le personnage sans synchronisation labiale.
   * **Float** : Solution innovante pour des animations labiales fluides.  
   * **Runway Gen-2** : Génération vidéo avec options de personnalisation accrues.
 
-## **4\. Animation des Scènes et Génération Multi-versions**
+## **4\. Création Musicale avec IA**
+
+### **Composition et Arrangement Automatisés**
+
+* **Outils disponibles :**  
+  * **Suno** : Plateforme dédiée à la création musicale collaborative avec IA.  
+  * **Boomy** : Génération rapide de morceaux musicaux dans divers genres.  
+  * **AIVA** : Création musicale basée sur l'analyse des émotions et des styles.  
+  * **Amper Music** : Plateforme axée sur les productions professionnelles.  
+  * **Soundraw** : Génération musicale personnalisée et rapide.
+
+### **Personnalisation des Musiques Générées**
+
+Ajoute des instruments, effets ou réarrangements basés sur le style souhaité.
+
+**Prompt Exemple :**
+
+* « Crée une musique électronique mélodique avec des sons organiques et un BPM de 120, harmonisée pour transmettre une ambiance nostalgique. »
+
+## **5\. Animation des Scènes et Génération Multi-versions**
 
 ### **Animation des Scènes**
 
@@ -84,7 +109,7 @@ Génère plusieurs versions de la même scène pour choisir la meilleure.
 
 * Gère et compare les différentes versions d’animations pour sélectionner la plus réussie.
 
-## **5\. Montage Dynamique Synchronisé au BPM**
+## **6\. Montage Dynamique Synchronisé au BPM**
 
 ### **Analyse du BPM et Marquage des Beats**
 
@@ -108,15 +133,17 @@ Utilise des outils comme **MoviePy** ou **FFmpeg** pour :
 | ----- | ----- | ----- | ----- |
 | ChatGPT | Génération des paroles, storyboard | API payante | [OpenAI](https://openai.com/) |
 | Beatopia | Génération de paroles lyriques | Plateforme | [Beatopia](https://www.beatopia.com/) |
+| Flux | Génération d'images artistiques | Modèle IA | [Flux](https://flux.com/) |
+| Suno | Création musicale avec IA | Plateforme | [Suno](https://suno.com/) |
+| Boomy | Génération musicale rapide | Plateforme | [Boomy](https://boomy.com/) |
 | Coolors / Adobe Color | Génération de palettes de couleurs | Gratuit | [Coolors](https://coolors.co/) / [Adobe Color](https://color.adobe.com/) |
 | LoRA / PulID / ACE | Cohérence des personnages | Modèles IA | [LoRA](https://github.com/cloneofsimo/lora) |
 | X-Portrait 2 | Synchronisation labiale | Disponible | [X-Portrait](https://xportrait.com/) |
-| D-ID / HeyGen / Float | Synchronisation labiale avancée | Payant | [D-ID](https://www.d-id.com/) / [HeyGen](https://www.heygen.com/) |
 | Runway Gen-2 | Génération vidéo | Plateforme | [Runway](https://runwayml.com/) |
 | MoviePy / FFmpeg | Montage dynamique | Open Source | MoviePy / [FFmpeg](https://ffmpeg.org/) |
 | librosa | Analyse audio et BPM | Open Source | [librosa](https://librosa.org/) |
 
 ## **Conclusion**
 
-Ce workflow permet de créer un clip musical automatisé et cohérent tout en exploitant les dernières technologies en matière d’IA et de montage. En combinant des outils adaptés et un script Python central, ce processus peut devenir scalable et personnalisable. Les outils énumérés ci-dessus permettent de connecter intelligemment chaque étape pour obtenir un résultat fluide et professionnel.
+Ce workflow enrichi intègre des solutions avancées pour la création visuelle et musicale, offrant une automatisation fluide et des résultats personnalisés. Les outils **Flux** et **Suno**, ainsi que leurs alternatives, élargissent les possibilités pour produire des clips professionnels avec une empreinte artistique unique.
 
