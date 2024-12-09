@@ -18,7 +18,7 @@ Utilise des modèles IA pour créer des paroles adaptées à un thème donné. L
 
 Transforme chaque section des paroles en descriptions visuelles.
 
-* **Nouvelle fonctionnalité :** Attribue une palette de couleurs cohérente avec l’émotion et le style musical pour harmoniser la colorimétrie des scènes.
+*  :** Attribue une palette de couleurs cohérente avec l’émotion et le style musical pour harmoniser la colorimétrie des scènes.
 
 **Prompt Exemple :**
 
